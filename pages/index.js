@@ -26,7 +26,7 @@ export default function Home() {
                   <br /> Designer
                 </h1>
                 <div className="absolute left-0 top-8 z-10 flex flex-col justify-center items-start">
-                  <h1 className="font-semibold text-xl">Hello, it's me</h1>
+                  <h1 className="font-semibold text-xl">Hello, it&apos;s me</h1>
                   <h1 className="font-bold text-7xl">
                     Ojieame<span className="text-teal-800">.</span>
                   </h1>
