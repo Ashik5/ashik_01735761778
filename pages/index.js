@@ -322,7 +322,7 @@ export default function Home() {
                   football with friends.
                   <br />
                   <br />
-                  I'm grateful that my job allows me to work from anywhere.
+                  I&apos;m grateful that my job allows me to work from anywhere.
                   I&apos;m active on Instagram where I share most of the and all
                   info about my upcoming projects.
                   <br />
@@ -343,7 +343,7 @@ export default function Home() {
             <ProjectCard name={"FirstbankQuest"} img={"./s2_p2.png"} />
           </div>
         </div>
-        {/* what's next section */}
+        {/* what&apos;s next section */}
         <div className="relative flex flex-col items-center h-[80vh] text-white w-full">
           <div className="w-full h-[85%] relative">
             <img
@@ -354,15 +354,15 @@ export default function Home() {
           <div className="absolute z-10 bg-black/50 w-full h-[85%] flex flex-col items-center justify-center text-white">
             <div className="w-1/2 h-full flex flex-col items-center justify-center space-y-8">
               <h1 className="uppercase font-semibold text-blue-500">
-                what's next
+                what&apos;s next
               </h1>
               <h1 className="font-bold text-4xl">Lets work together!</h1>
               <h1 className="text-zinc-500 text-lg text-center">
-                If you'd like to talk about a project you want help with or need
-                an advice about product design, just drop me a message at
-                <span className="text-white"> nathan@ojieame.design</span> I'm
-                currently Available for any design systems projects, dashboard
-                designs or landing pages gigs.
+                If you&apos;d like to talk about a project you want help with or
+                need an advice about product design, just drop me a message at
+                <span className="text-white"> nathan@ojieame.design</span>{" "}
+                I&apos;m currently Available for any design systems projects,
+                dashboard designs or landing pages gigs.
               </h1>
               <a
                 href="mailto:ashikmamud123@gmail.com?subject=Front-end%20Job"
