@@ -76,12 +76,13 @@ export default function Home() {
               front-end teams, digital product design and developing visual
               design systems. I enjoy creating effortless user experience and
               designing delightful digital products. The entire process of going
-              from a concept to release and gathering user’s feedback on either
-              client’s or my own products is what makes me wake up everyday!
+              from a concept to release and gathering user&apos;s feedback on
+              either client&apos;s or my own products is what makes me wake up
+              everyday!
               <br />I worked with numerous clients from all around the world
               from early startups to well-established companies. I always seek
               new opportunities for cooperation on projects around interesting
-              dashboards, design systems or landing pages. Let’s create
+              dashboards, design systems or landing pages. Let&apos;s create
               something awesome together!
             </h1>
           </div>
@@ -314,16 +315,16 @@ export default function Home() {
               </div>
               <div className="w-1/2">
                 <h1 className="text-lg text-zinc-500 w-full break-all">
-                  I’ve always been passionate about pixels and design projects
-                  and haven’t stopped working and learning about new
-                  technologies . Other than sitting in from of my display I
+                  I&apos;ve always been passionate about pixels and design
+                  projects and haven&apos;t stopped working and learning about
+                  new technologies . Other than sitting in from of my display I
                   enjoy myself in casual sports, such as bowling or playing
                   football with friends.
                   <br />
                   <br />
-                  I'm grateful that my job allows me to work from anywhere. I’m
-                  active on Instagram where I share most of the and all info
-                  about my upcoming projects.
+                  I'm grateful that my job allows me to work from anywhere.
+                  I&apos;m active on Instagram where I share most of the and all
+                  info about my upcoming projects.
                   <br />
                   <br />I also like sharing my experiences on instagram
                 </h1>
